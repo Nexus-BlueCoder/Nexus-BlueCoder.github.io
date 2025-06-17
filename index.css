@@ -1,15 +1,15 @@
 /* === Root Variables === */
 :root {
-    --primary-bg: #0f1115;
-    --secondary-bg: #1a1d24;
-    --tertiary-bg: #171a23;
-    --card-bg: #1c1f26;
-    --accent: #00bcd4;
-    --accent-light: #4dd0e1;
-    --accent-glow: rgba(0, 188, 212, 0.4);
+    --primary-bg: #3b1802;
+    --secondary-bg: #241f1a;
+    --tertiary-bg: #231e17;
+    --card-bg: #26221c;
+    --accent: #914702;
+    --accent-light: #996925;
+    --accent-glow: rgba(122, 54, 2, 0.4);
     --text-light: #f5f7fa;
     --text-muted: #a0aab7;
-    --border-color: #2c2f36;
+    --border-color: #36332c;
     --shadow: rgba(0, 0, 0, 0.6);
     --blur-bg: rgba(15, 17, 21, 0.85);
     --bezier-fancy: cubic-bezier(0.77, 0, 0.175, 1);
@@ -457,7 +457,7 @@ main > footer {
     flex-direction: column;
     padding: 45px;
     width: fit-content;
-    background-color: rgba(0, 188, 212, 0.10);
+    background-color: rgba(212, 134, 0, 0.1);
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     transition: var(--transition-slow-af);
